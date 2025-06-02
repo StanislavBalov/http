@@ -2,7 +2,7 @@
   "name": "http",
   "version": "1.0.0",
   "description": "![CI](https://github.com/StanislavBalov/http/actions/workflows/deploy.yml/badge.svg)",
-  "main": "index.js",
+  "main": "./frontend/src/index.js",
   "homepage": "https://github.com/StanislavBalov/http",
   "scripts": {
     "test": "jest",
