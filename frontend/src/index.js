@@ -1,4 +1,4 @@
-const API_URL = 'http://localhost:7070';
+const API_URL = 'http://localhost:3000';
 
 async function loadTickets() {
   const res = await fetch(`${API_URL}/tickets`);
